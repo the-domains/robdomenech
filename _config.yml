@@ -1,0 +1,28 @@
+name: RobDomenech
+favicon: null
+layout_spectrum: 0.23019167385064065
+typography_spectrum: 0.12455865717492998
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.10330060822889209
+  lightness: 0.3933918357361108
+  saturation: 0.38653864269144833
+  rhythmicContrast: 0.2755146536510438
+purpose: []
