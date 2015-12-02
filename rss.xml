@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RobDomenech]]></title>
         <description><![CDATA[RobDomenech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robdomenech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 02:55:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 02:56:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robdomenech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["The Entertainer"]]></title>
+            <description><![CDATA[<article><h1>"The Entertainer"</h1><p>Behind the facade is a sad man.</p></article>]]></description>
+            <link>https://thegrid.ai/robdomenech/the-entertainer/index.html</link>
+            <guid isPermaLink="false">c3e23ff8-25f7-45c1-ab24-f70e45f373f8</guid>
+            <pubDate>Wed, 02 Dec 2015 02:55:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Perfectly Flawed"]]></title>
             <description><![CDATA[<article><h1>"Perfectly Flawed"</h1><p>The things that make us different are the things that make us beautiful</p></article>]]></description>
-            <link>undefinedperfectly-flawed/index.html</link>
+            <link>https://thegrid.ai/robdomenech/perfectly-flawed/index.html</link>
             <guid isPermaLink="false">844c0344-5bbb-4fa5-9b7c-a36b0209b404</guid>
             <pubDate>Wed, 02 Dec 2015 02:55:32 GMT</pubDate>
         </item>
